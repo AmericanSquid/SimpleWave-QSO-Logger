@@ -1,10 +1,11 @@
 # SimpleWave QSO Logger
 
-The SimpleWave QSO Logger is a lightweight web application that allows users to log basic QSO data and geocode it using the Leaflet API. The app displays a map with pins representing worked stations and provides a table for the QSO data. You can export your data as an ADIF file for easy upload to QRZ, LOTW, eQSL, or other platforms that support ADIF files. **Be sure to export your log at the end of each session, as data cannot be saved within the app.** This tool is designed for quick, user-friendly logging that integrates easily with your logbook of choice.
+The SimpleWave QSO Logger is a lightweight web application that allows users to log basic QSO data and geocode it using the Leaflet API. The app displays a map with pins representing worked stations and provides a table for the QSO data. You can export your data as an ADIF file for easy upload to QRZ, LOTW, eQSL, or other platforms that support ADIF files. You can also download a JPG of your the QSO map to use for bragging rights with your radio friends. **Be sure to export your log at the end of each session, as data cannot be saved within the app.** This tool is designed for quick, user-friendly logging that integrates easily with your logbook of choice.
 
 ## Hosted Application
 The latest version of SimpleWave QSO Logger is available at:  
-🌐 [SimpleWave QSO Logger](https://americansquid.com/apps/simplewave.html)  
+🌐 [SimpleWave QSO Logger](https://americansquid.com/apps/SimpleWave/index.html)  
+
 **Note**: This package is intended for those who wish to self-host the SimpleWave QSO Logger.
 
 ## Implementation
@@ -15,7 +16,7 @@ The latest version of SimpleWave QSO Logger is available at:
 - Be sure the source files are placed in the same directory.
 
 ### Option 2: Docker Implementation
-The Docker implementation sets up an **Apache** web server with the SimpleWave source files. This implementation has not yet been tested.
+You may use the files with via a containerized Apache web server. This implementation has not yet been tested.
 
 ## Support
 If you experience any issues with this program, please contact:  
