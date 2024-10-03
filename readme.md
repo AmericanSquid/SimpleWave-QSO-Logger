@@ -24,6 +24,10 @@ If you experience any issues with this program, please contact:
 
 Or you may post an issue or fork this code as you see fit.
 
+## License
+
+See LICENSE file for details.
+
 ## Acknowledgments
 Thanks to **N3FJP** for the inspiration, friendship, and knowledge. Go support Scott’s software instead of using this simple logger!
 
