@@ -16,7 +16,7 @@ The latest version of SimpleWave QSO Logger is available at:
 - Be sure the source files are placed in the same directory.
 
 ### Option 2: Docker Implementation
-You may use the files with via a containerized Apache web server. This implementation has not yet been tested.
+An quick implentation utilizing NodeJS is being developed.
 
 ## Support
 If you experience any issues with this program, please contact:  
